@@ -3,17 +3,17 @@
 ![screenshot](image.png)
 
 ```
-yarn install
+npm install
 ```
 
 ```
-yarn build
+npm run build
 ```
 
 ```
-yarn cap sync android
+npx cap sync android
 ```
 
 ```
-yarn cap run android
+npx cap run android
 ```
