@@ -1,0 +1,5 @@
+{
+    "appId": "barcode.scanner",
+    "appName": "testscanner",
+    "webDir": "build"
+  }
